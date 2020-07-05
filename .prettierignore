@@ -1,8 +1,8 @@
 # Ignore artifacts:
 build
 coverage
-lib
 node_modules
+dist
 
 # Ignore all HTML files:
 *.html

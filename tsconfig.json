@@ -16,13 +16,8 @@
     "forceConsistentCasingInFileNames": true,
     "baseUrl": "./packages",
     "paths": {
-      "@/*": [
-        "packages/*"
-      ]
+      "@/*": ["packages/*"]
     }
   },
-  "exclude": [
-    "node_modules",
-    "**/__tests__/*"
-  ]
+  "exclude": ["node_modules", "**/__tests__/**", "**/dist/**"]
 }
