@@ -1,0 +1,34 @@
+{
+  "name": "@my_math_library/mul",
+  "description": "Mul function of My Math Library",
+  "version": "0.0.0",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node ./src/index.ts",
+    "build": "tsc",
+    "test": "jest --config ../../jestconfig.json"
+  },
+  "files": [
+    "lib/**/*"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeyyedKhandon/my_math_library.git"
+  },
+  "author": "SeyyedMahdi hassanpour",
+  "bugs": {
+    "url": "https://github.com/SeyyedKhandon/my_math_library/issues"
+  },
+  "homepage": "https://github.com/SeyyedKhandon/my_math_library#readme",
+  "keywords": [
+    "Math Library",
+    "Math",
+    "My Math",
+    "Multiply"
+  ]
+}
