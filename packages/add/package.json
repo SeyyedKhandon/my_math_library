@@ -1,7 +1,7 @@
 {
   "name": "@my_math_library/add",
   "description": "Add function of My Math Library",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "license": "MIT",

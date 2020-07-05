@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.0.1 (2020-07-05)
+
+**Note:** Version bump only for package my_math_library
+
+
+
+
+
+
 ## [0.2.9](https://github.com/SeyyedKhandon/yarn_lerna_jest_typescript/compare/yarn_lerna_jest_typescript@0.2.8...yarn_lerna_jest_typescript@0.2.9) (2020-07-04)
 
 **Note:** Version bump only for package yarn_lerna_jest_typescript
